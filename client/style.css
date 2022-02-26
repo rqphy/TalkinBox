@@ -1,0 +1,7 @@
+:root {
+    --main-color: tomato;
+}
+
+h1 {
+    color: var(--main-color);
+}
